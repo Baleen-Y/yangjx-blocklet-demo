@@ -1,0 +1,14 @@
+.text-wrap {
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.tx-list-name {
+    width: 80px;
+}
+
+.component-tx-row:hover {
+    background: lightgray;
+    border-radius: 5px;
+}
