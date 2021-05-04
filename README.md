@@ -27,6 +27,9 @@ npm install -g @abtnode/cli
 git clone https://github.com/Baleen-Y/yangjx-blocket-demo.git
 cd yangjx-blocket-demo
 npm install # or yarn
+cd frontend
+npm install # or yarn
+cd ../
 ```
 
 ### 3. Setup the node
